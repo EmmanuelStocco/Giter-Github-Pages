@@ -38,14 +38,14 @@
     font-size: 1.7rem;
 }
 
-.navMenu .record {
-    color: green
+.navMenu .futebol {
+    color: darkseagreen;
 }
 
-.navMenu .cultura {
+.navMenu .diversas {
     color: pink
 }
-.navMenu .band {
+.navMenu .musicas {
     color: lightblue
 }
 .navMenu .trabalho {
