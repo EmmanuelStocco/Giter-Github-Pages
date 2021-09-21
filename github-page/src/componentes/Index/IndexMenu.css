@@ -1,0 +1,71 @@
+/*
+    Configuraçoes do componente IndexMenu
+*/
+.menu {
+    height: 9vh;
+    border: 1px solid rgb(25, 37, 61);
+    background-color: rgb(58, 82, 134);
+    padding-bottom: 8px;
+    font-size: 16px;
+    
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+.navMenu ul {
+    list-style: none;
+    text-align: center;
+}
+
+.navMenu ul li {
+    display: inline;
+}
+
+.navMenu ul li a {
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 1vh;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.navMenu ul li a:hover {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+
+.navMenu .futebol {
+    color: darkseagreen;
+}
+
+.navMenu .diversas {
+    color: pink
+}
+
+.navMenu .musicas {
+    color: lightblue
+}
+.navMenu .trabalho {
+    color: yellow
+}
+.navMenu .vida {
+    color: white
+}
+
+
+.navMenu .cozinha {
+    color: darkviolet   
+}
+
+.navMenu .informatica {
+    color: darkseagreen
+}
+
+
+.navMenu .record {
+    color: darkorange;
+}
